@@ -2,4 +2,4 @@
 
 ## Mitch Creelman
 
- Email: [mitchcreelman@u.boisestate.edu]<mitchcreelman@u.boisestate.edu>
+ Email: <mitchcreelman@u.boisestate.edu>
